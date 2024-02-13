@@ -148,6 +148,12 @@
     "from": "hubExamples"
   },
   {
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/scoringutils",
+    "via": ["hubEvals"],
+    "from": "hubEvals"
+  },
+  {
     "package": "zoltr",
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubData"],

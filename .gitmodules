@@ -39,6 +39,10 @@
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
+[submodule "scoringutils"]
+	path = scoringutils
+	url = https://github.com/epiforecasts/scoringutils
+	registered = false
 [submodule "zoltr"]
 	path = zoltr
 	url = https://github.com/reichlab/zoltr
