@@ -2,6 +2,14 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
+    "via": ["hubAdmin", "hubData"],
+    "branch": "apache-arrow-15.0.2",
+    "subdir": "r",
+    "from": "hubAdmin"
+  },
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
     "via": ["hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -92,6 +100,12 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
+    "via": ["hubAdmin"],
+    "from": "hubAdmin"
+  },
+  {
+    "package": "hubData",
+    "url": "https://github.com/hubverse-org/hubData",
     "via": ["hubEnsembles"],
     "from": "hubEnsembles"
   },
@@ -130,6 +144,12 @@
     "url": "https://github.com/hubverse-org/hubExamples",
     "via": ["hubVis"],
     "from": "hubVis"
+  },
+  {
+    "package": "hubUtils",
+    "url": "https://github.com/hubverse-org/hubUtils",
+    "via": ["hubAdmin", "hubData"],
+    "from": "hubAdmin"
   },
   {
     "package": "hubUtils",
@@ -184,6 +204,12 @@
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["hubEvals"],
     "from": "hubEvals"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["hubAdmin", "hubData"],
+    "from": "hubAdmin"
   },
   {
     "package": "zoltr",
