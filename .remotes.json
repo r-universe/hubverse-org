@@ -56,10 +56,24 @@
     "from": "hubVis"
   },
   {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "via": ["hubverse", "hubAdmin", "hubData"],
+    "branch": "apache-arrow-15.0.2",
+    "subdir": "r",
+    "from": "hubverse"
+  },
+  {
     "package": "distfromq",
     "url": "https://github.com/reichlab/distfromq",
     "via": ["hubEnsembles"],
     "from": "hubEnsembles"
+  },
+  {
+    "package": "distfromq",
+    "url": "https://github.com/reichlab/distfromq",
+    "via": ["hubverse", "hubEnsembles"],
+    "from": "hubverse"
   },
   {
     "package": "hubAdmin",
@@ -98,6 +112,18 @@
     "from": "hubVis"
   },
   {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubverse"],
+    "from": "hubverse"
+  },
+  {
+    "package": "hubCI",
+    "url": "https://github.com/hubverse-org/hubCI",
+    "via": ["hubverse"],
+    "from": "hubverse"
+  },
+  {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
     "via": ["hubAdmin"],
@@ -134,6 +160,24 @@
     "from": "hubVis"
   },
   {
+    "package": "hubData",
+    "url": "https://github.com/hubverse-org/hubData",
+    "via": ["hubverse", "hubAdmin"],
+    "from": "hubverse"
+  },
+  {
+    "package": "hubEnsembles",
+    "url": "https://github.com/hubverse-org/hubEnsembles",
+    "via": ["hubverse"],
+    "from": "hubverse"
+  },
+  {
+    "package": "hubEvals",
+    "url": "https://github.com/hubverse-org/hubEvals",
+    "via": ["hubverse"],
+    "from": "hubverse"
+  },
+  {
     "package": "hubExamples",
     "url": "https://github.com/hubverse-org/hubExamples",
     "via": ["hubEnsembles"],
@@ -144,6 +188,12 @@
     "url": "https://github.com/hubverse-org/hubExamples",
     "via": ["hubVis"],
     "from": "hubVis"
+  },
+  {
+    "package": "hubExamples",
+    "url": "https://github.com/hubverse-org/hubExamples",
+    "via": ["hubverse", "hubEnsembles"],
+    "from": "hubverse"
   },
   {
     "package": "hubUtils",
@@ -182,6 +232,18 @@
     "from": "hubVis"
   },
   {
+    "package": "hubUtils",
+    "url": "https://github.com/hubverse-org/hubUtils",
+    "via": ["hubverse", "hubAdmin", "hubData"],
+    "from": "hubverse"
+  },
+  {
+    "package": "hubValidations",
+    "url": "https://github.com/hubverse-org/hubValidations",
+    "via": ["hubverse"],
+    "from": "hubverse"
+  },
+  {
     "package": "hubVis",
     "url": "https://github.com/hubverse-org/hubVis",
     "via": ["hubEnsembles", "hubExamples"],
@@ -194,16 +256,34 @@
     "from": "hubExamples"
   },
   {
+    "package": "hubVis",
+    "url": "https://github.com/hubverse-org/hubVis",
+    "via": ["hubverse", "hubEnsembles", "hubExamples"],
+    "from": "hubverse"
+  },
+  {
     "package": "octolog",
     "url": "https://github.com/assignUser/octolog",
     "via": ["hubValidations"],
     "from": "hubValidations"
   },
   {
+    "package": "octolog",
+    "url": "https://github.com/assignUser/octolog",
+    "via": ["hubverse", "hubValidations"],
+    "from": "hubverse"
+  },
+  {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["hubEvals"],
     "from": "hubEvals"
+  },
+  {
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/scoringutils",
+    "via": ["hubverse", "hubEvals"],
+    "from": "hubverse"
   },
   {
     "package": "zoltr",
@@ -246,5 +326,11 @@
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubVis", "hubUtils", "hubData"],
     "from": "hubVis"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["hubverse", "hubAdmin", "hubData"],
+    "from": "hubverse"
   }
 ]
