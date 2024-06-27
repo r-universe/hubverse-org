@@ -8,6 +8,10 @@
 	branch = apache-arrow-15.0.2
 	subdir = r
 	registered = false
+[submodule "distfromq"]
+	path = distfromq
+	url = https://github.com/reichlab/distfromq
+	registered = false
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
