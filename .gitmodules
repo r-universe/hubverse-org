@@ -39,6 +39,10 @@
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
+[submodule "octolog"]
+	path = octolog
+	url = https://github.com/assignUser/octolog
+	registered = false
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils

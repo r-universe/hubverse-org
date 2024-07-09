@@ -34,6 +34,14 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
+    "via": ["hubValidations", "hubUtils", "hubData"],
+    "branch": "apache-arrow-15.0.2",
+    "subdir": "r",
+    "from": "hubValidations"
+  },
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
     "via": ["hubVis", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -72,6 +80,12 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubValidations", "hubUtils"],
+    "from": "hubValidations"
+  },
+  {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
     "via": ["hubVis", "hubUtils"],
     "from": "hubVis"
   },
@@ -92,6 +106,12 @@
     "url": "https://github.com/hubverse-org/hubData",
     "via": ["hubUtils"],
     "from": "hubUtils"
+  },
+  {
+    "package": "hubData",
+    "url": "https://github.com/hubverse-org/hubData",
+    "via": ["hubValidations", "hubUtils"],
+    "from": "hubValidations"
   },
   {
     "package": "hubData",
@@ -132,6 +152,12 @@
   {
     "package": "hubUtils",
     "url": "https://github.com/hubverse-org/hubUtils",
+    "via": ["hubValidations"],
+    "from": "hubValidations"
+  },
+  {
+    "package": "hubUtils",
+    "url": "https://github.com/hubverse-org/hubUtils",
     "via": ["hubVis"],
     "from": "hubVis"
   },
@@ -146,6 +172,12 @@
     "url": "https://github.com/hubverse-org/hubVis",
     "via": ["hubExamples"],
     "from": "hubExamples"
+  },
+  {
+    "package": "octolog",
+    "url": "https://github.com/assignUser/octolog",
+    "via": ["hubValidations"],
+    "from": "hubValidations"
   },
   {
     "package": "scoringutils",
@@ -176,6 +208,12 @@
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubUtils", "hubData"],
     "from": "hubUtils"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["hubValidations", "hubUtils", "hubData"],
+    "from": "hubValidations"
   },
   {
     "package": "zoltr",
