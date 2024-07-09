@@ -1,0 +1,28 @@
+[
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "via": ["hubData"],
+    "branch": "apache-arrow-15.0.2",
+    "subdir": "r",
+    "from": "hubData"
+  },
+  {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubData", "hubUtils"],
+    "from": "hubData"
+  },
+  {
+    "package": "hubUtils",
+    "url": "https://github.com/hubverse-org/hubUtils",
+    "via": ["hubData"],
+    "from": "hubData"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["hubData"],
+    "from": "hubData"
+  }
+]

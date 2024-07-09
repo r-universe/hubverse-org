@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/hubverse-org/hubverse-org.r-universe.dev
 	branch = HEAD
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	branch = apache-arrow-15.0.2
+	subdir = r
+	registered = false
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
@@ -29,3 +35,7 @@
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
+[submodule "zoltr"]
+	path = zoltr
+	url = https://github.com/reichlab/zoltr
+	registered = false
