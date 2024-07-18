@@ -26,6 +26,14 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
+    "via": ["hubEvals", "hubUtils", "hubData"],
+    "branch": "apache-arrow-15.0.2",
+    "subdir": "r",
+    "from": "hubEvals"
+  },
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
     "via": ["hubExamples", "hubVis", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -90,6 +98,12 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubEvals", "hubUtils"],
+    "from": "hubEvals"
+  },
+  {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
     "via": ["hubExamples", "hubVis", "hubUtils"],
     "from": "hubExamples"
   },
@@ -134,6 +148,12 @@
     "url": "https://github.com/hubverse-org/hubData",
     "via": ["hubEnsembles"],
     "from": "hubEnsembles"
+  },
+  {
+    "package": "hubData",
+    "url": "https://github.com/hubverse-org/hubData",
+    "via": ["hubEvals", "hubUtils"],
+    "from": "hubEvals"
   },
   {
     "package": "hubData",
@@ -212,6 +232,12 @@
     "url": "https://github.com/hubverse-org/hubUtils",
     "via": ["hubEnsembles", "hubData"],
     "from": "hubEnsembles"
+  },
+  {
+    "package": "hubUtils",
+    "url": "https://github.com/hubverse-org/hubUtils",
+    "via": ["hubEvals"],
+    "from": "hubEvals"
   },
   {
     "package": "hubUtils",
@@ -302,6 +328,12 @@
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubEnsembles", "hubData"],
     "from": "hubEnsembles"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["hubEvals", "hubUtils", "hubData"],
+    "from": "hubEvals"
   },
   {
     "package": "zoltr",
