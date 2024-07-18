@@ -1,5 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/hubverse-org/hubverse-org.r-universe.dev
 	branch = HEAD
+[submodule "hubAdmin"]
+	path = hubAdmin
+	url = https://github.com/hubverse-org/hubAdmin
+[submodule "hubCI"]
+	path = hubCI
+	url = https://github.com/hubverse-org/hubCI
+[submodule "hubData"]
+	path = hubData
+	url = https://github.com/hubverse-org/hubData
+[submodule "hubEnsembles"]
+	path = hubEnsembles
+	url = https://github.com/hubverse-org/hubEnsembles
+[submodule "hubEvals"]
+	path = hubEvals
+	url = https://github.com/hubverse-org/hubEvals
+[submodule "hubExamples"]
+	path = hubExamples
+	url = https://github.com/hubverse-org/hubExamples
+[submodule "hubUtils"]
+	path = hubUtils
+	url = https://github.com/hubverse-org/hubUtils
+[submodule "hubValidations"]
+	path = hubValidations
+	url = https://github.com/hubverse-org/hubValidations
+[submodule "hubVis"]
+	path = hubVis
+	url = https://github.com/hubverse-org/hubVis
