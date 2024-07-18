@@ -39,6 +39,9 @@
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
+[submodule "hubverse"]
+	path = hubverse
+	url = https://github.com/hubverse-org/hubverse
 [submodule "octolog"]
 	path = octolog
 	url = https://github.com/assignUser/octolog
