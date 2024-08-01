@@ -320,12 +320,6 @@
   {
     "package": "zoltr",
     "url": "https://github.com/reichlab/zoltr",
-    "via": ["hubData"],
-    "from": "hubData"
-  },
-  {
-    "package": "zoltr",
-    "url": "https://github.com/reichlab/zoltr",
     "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils", "hubData"],
     "from": "hubEnsembles"
   },
