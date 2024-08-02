@@ -42,7 +42,7 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubUtils", "hubData"],
+    "via": ["hubUtils", "hubAdmin", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
     "from": "hubUtils"
@@ -164,7 +164,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubUtils"],
+    "via": ["hubUtils", "hubAdmin"],
     "from": "hubUtils"
   },
   {
@@ -334,12 +334,6 @@
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubExamples", "hubVis", "hubUtils", "hubData"],
     "from": "hubExamples"
-  },
-  {
-    "package": "zoltr",
-    "url": "https://github.com/reichlab/zoltr",
-    "via": ["hubUtils", "hubData"],
-    "from": "hubUtils"
   },
   {
     "package": "zoltr",
