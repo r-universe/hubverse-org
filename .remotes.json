@@ -42,7 +42,7 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubUtils", "hubAdmin", "hubData"],
+    "via": ["hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
     "from": "hubUtils"
@@ -110,12 +110,6 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
-    "via": ["hubUtils"],
-    "from": "hubUtils"
-  },
-  {
-    "package": "hubAdmin",
-    "url": "https://github.com/hubverse-org/hubAdmin",
     "via": ["hubValidations", "hubUtils"],
     "from": "hubValidations"
   },
@@ -164,7 +158,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubUtils", "hubAdmin"],
+    "via": ["hubUtils"],
     "from": "hubUtils"
   },
   {
