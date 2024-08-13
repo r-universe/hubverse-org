@@ -110,7 +110,7 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
-    "via": ["hubValidations", "hubUtils"],
+    "via": ["hubValidations"],
     "from": "hubValidations"
   },
   {
@@ -316,12 +316,6 @@
     "url": "https://github.com/reichlab/zoltr",
     "via": ["hubExamples", "hubVis", "hubUtils", "hubData"],
     "from": "hubExamples"
-  },
-  {
-    "package": "zoltr",
-    "url": "https://github.com/reichlab/zoltr",
-    "via": ["hubValidations", "hubUtils", "hubData"],
-    "from": "hubValidations"
   },
   {
     "package": "zoltr",
