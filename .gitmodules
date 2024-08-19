@@ -15,7 +15,6 @@
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
-	branch = *release
 [submodule "hubCI"]
 	path = hubCI
 	url = https://github.com/hubverse-org/hubCI
