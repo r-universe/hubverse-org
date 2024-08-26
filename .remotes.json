@@ -34,14 +34,6 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubValidations", "hubUtils", "hubData"],
-    "branch": "apache-arrow-15.0.2",
-    "subdir": "r",
-    "from": "hubValidations"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/apache/arrow",
     "via": ["hubVis", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
