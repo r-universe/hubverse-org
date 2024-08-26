@@ -1,5 +1,17 @@
 [
   {
+    "package": "hubData",
+    "releasetag": true
+  },
+  {
+    "package": "hubUtils",
+    "releasetag": true
+  },
+  {
+    "package": "hubExamples",
+    "releasetag": true
+  },
+  {
     "package": "hubAdmin",
     "releasetag": true
   }

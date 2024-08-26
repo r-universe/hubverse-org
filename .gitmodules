@@ -22,6 +22,7 @@
 [submodule "hubData"]
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
+	branch = *release
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/hubverse-org/hubEnsembles
@@ -31,9 +32,11 @@
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
+	branch = *release
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
+	branch = *release
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
