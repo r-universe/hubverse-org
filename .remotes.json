@@ -10,14 +10,6 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubData"],
-    "branch": "apache-arrow-15.0.2",
-    "subdir": "r",
-    "from": "hubData"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/apache/arrow",
     "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -82,12 +74,6 @@
     "url": "https://github.com/reichlab/distfromq",
     "via": ["hubverse", "hubEnsembles"],
     "from": "hubverse"
-  },
-  {
-    "package": "hubAdmin",
-    "url": "https://github.com/hubverse-org/hubAdmin",
-    "via": ["hubData", "hubUtils"],
-    "from": "hubData"
   },
   {
     "package": "hubAdmin",
