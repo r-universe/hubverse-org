@@ -12,6 +12,10 @@
     "releasetag": true
   },
   {
+    "package": "hubValidations",
+    "releasetag": true
+  },
+  {
     "package": "hubAdmin",
     "releasetag": true
   }
