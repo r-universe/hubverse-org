@@ -2,14 +2,6 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubAdmin", "hubData"],
-    "branch": "apache-arrow-15.0.2",
-    "subdir": "r",
-    "from": "hubAdmin"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/apache/arrow",
     "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
