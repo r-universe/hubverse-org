@@ -30,6 +30,9 @@
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
+[submodule "hubStyle"]
+	path = hubStyle
+	url = https://github.com/hubverse-org/hubStyle
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
