@@ -2,14 +2,6 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils", "hubData"],
-    "branch": "apache-arrow-15.0.2",
-    "subdir": "r",
-    "from": "hubEnsembles"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/apache/arrow",
     "via": ["hubEvals", "hubUtils", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -50,12 +42,6 @@
     "url": "https://github.com/reichlab/distfromq",
     "via": ["hubverse", "hubEnsembles"],
     "from": "hubverse"
-  },
-  {
-    "package": "hubAdmin",
-    "url": "https://github.com/hubverse-org/hubAdmin",
-    "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils"],
-    "from": "hubEnsembles"
   },
   {
     "package": "hubAdmin",
@@ -242,12 +228,6 @@
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["hubverse", "hubEvals"],
     "from": "hubverse"
-  },
-  {
-    "package": "zoltr",
-    "url": "https://github.com/reichlab/zoltr",
-    "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils", "hubData"],
-    "from": "hubEnsembles"
   },
   {
     "package": "zoltr",
