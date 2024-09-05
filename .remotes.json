@@ -228,12 +228,6 @@
   {
     "package": "octolog",
     "url": "https://github.com/assignUser/octolog",
-    "via": ["hubValidations"],
-    "from": "hubValidations"
-  },
-  {
-    "package": "octolog",
-    "url": "https://github.com/assignUser/octolog",
     "via": ["hubverse", "hubValidations"],
     "from": "hubverse"
   },
