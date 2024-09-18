@@ -72,12 +72,6 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubUtils"],
-    "from": "hubUtils"
-  },
-  {
-    "package": "hubData",
-    "url": "https://github.com/hubverse-org/hubData",
     "via": ["hubValidations", "hubUtils"],
     "from": "hubValidations"
   },
