@@ -15,37 +15,37 @@
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
-	branch = *release
+	branch = v1.1.1
 [submodule "hubCI"]
 	path = hubCI
 	url = https://github.com/hubverse-org/hubCI
-	branch = *release
+	branch = v0.0.1
 [submodule "hubData"]
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
-	branch = *release
+	branch = v1.2.2
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/hubverse-org/hubEnsembles
-	branch = *release
+	branch = v0.1.6
 [submodule "hubEvals"]
 	path = hubEvals
 	url = https://github.com/hubverse-org/hubEvals
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
-	branch = *release
+	branch = v0.0.1
 [submodule "hubStyle"]
 	path = hubStyle
 	url = https://github.com/hubverse-org/hubStyle
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
-	branch = 0.1.7
+	branch = v0.1.7
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
-	branch = *release
+	branch = v0.6.2
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
