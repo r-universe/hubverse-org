@@ -1,6 +1,30 @@
 [
   {
+    "package": "hubData",
+    "releasetag": true
+  },
+  {
+    "package": "hubEnsembles",
+    "releasetag": true
+  },
+  {
     "package": "hubUtils",
+    "releasetag": true
+  },
+  {
+    "package": "hubExamples",
+    "releasetag": true
+  },
+  {
+    "package": "hubValidations",
+    "releasetag": true
+  },
+  {
+    "package": "hubAdmin",
+    "releasetag": true
+  },
+  {
+    "package": "hubCI",
     "releasetag": true
   }
 ]

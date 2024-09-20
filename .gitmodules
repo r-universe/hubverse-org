@@ -15,21 +15,26 @@
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
+	branch = *release
 [submodule "hubCI"]
 	path = hubCI
 	url = https://github.com/hubverse-org/hubCI
+	branch = *release
 [submodule "hubData"]
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
+	branch = *release
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/hubverse-org/hubEnsembles
+	branch = *release
 [submodule "hubEvals"]
 	path = hubEvals
 	url = https://github.com/hubverse-org/hubEvals
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
+	branch = *release
 [submodule "hubStyle"]
 	path = hubStyle
 	url = https://github.com/hubverse-org/hubStyle
@@ -40,6 +45,7 @@
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
+	branch = *release
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
