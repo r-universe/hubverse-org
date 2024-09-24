@@ -2,14 +2,6 @@
   {
     "package": "arrow",
     "url": "https://github.com/apache/arrow",
-    "via": ["hubVis", "hubUtils", "hubData"],
-    "branch": "apache-arrow-15.0.2",
-    "subdir": "r",
-    "from": "hubVis"
-  },
-  {
-    "package": "arrow",
-    "url": "https://github.com/apache/arrow",
     "via": ["hubverse", "hubAdmin", "hubData"],
     "branch": "apache-arrow-15.0.2",
     "subdir": "r",
@@ -78,7 +70,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubVis", "hubUtils"],
+    "via": ["hubVis"],
     "from": "hubVis"
   },
   {
