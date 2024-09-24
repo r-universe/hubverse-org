@@ -38,7 +38,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubEnsembles", "hubExamples", "hubVis", "hubUtils"],
+    "via": ["hubEnsembles", "hubExamples", "hubVis"],
     "from": "hubEnsembles"
   },
   {
