@@ -52,7 +52,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubEvals", "hubExamples", "hubVis", "hubUtils"],
+    "via": ["hubEvals", "hubExamples", "hubVis"],
     "from": "hubEvals"
   },
   {
