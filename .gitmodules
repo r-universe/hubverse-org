@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/hubverse-org/hubverse-org.r-universe.dev
 	branch = HEAD
-[submodule "arrow"]
-	path = arrow
-	url = https://github.com/apache/arrow
-	branch = apache-arrow-15.0.2
-	subdir = r
-	registered = false
 [submodule "distfromq"]
 	path = distfromq
 	url = https://github.com/reichlab/distfromq
@@ -27,7 +21,7 @@
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/hubverse-org/hubEnsembles
-	branch = v0.1.6
+	branch = v0.1.7
 [submodule "hubEvals"]
 	path = hubEvals
 	url = https://github.com/hubverse-org/hubEvals
@@ -52,15 +46,7 @@
 [submodule "hubverse"]
 	path = hubverse
 	url = https://github.com/hubverse-org/hubverse
-[submodule "octolog"]
-	path = octolog
-	url = https://github.com/assignUser/octolog
-	registered = false
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
-	registered = false
-[submodule "zoltr"]
-	path = zoltr
-	url = https://github.com/reichlab/zoltr
 	registered = false
