@@ -8,6 +8,10 @@
     "releasetag": true
   },
   {
+    "package": "hubVis",
+    "releasetag": true
+  },
+  {
     "package": "hubUtils",
     "releasetag": true
   },
