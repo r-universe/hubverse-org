@@ -35,7 +35,7 @@
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
