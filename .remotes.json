@@ -108,6 +108,12 @@
     "from": "hubverse"
   },
   {
+    "package": "hubStyle",
+    "url": "https://github.com/hubverse-org/hubStyle",
+    "via": ["hubDevs"],
+    "from": "hubDevs"
+  },
+  {
     "package": "hubUtils",
     "url": "https://github.com/hubverse-org/hubUtils",
     "via": ["hubAdmin", "hubData"],
