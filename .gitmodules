@@ -18,6 +18,10 @@
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
 	branch = v1.3.0
+[submodule "hubDevs"]
+	path = hubDevs
+	url = https://github.com/hubverse-org/hubDevs
+	branch = *release
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/hubverse-org/hubEnsembles
