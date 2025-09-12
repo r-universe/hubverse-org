@@ -194,12 +194,6 @@
   {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
-    "via": ["hubEvals"],
-    "from": "hubEvals"
-  },
-  {
-    "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["hubverse", "hubEvals"],
     "from": "hubverse"
   }
