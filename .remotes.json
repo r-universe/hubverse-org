@@ -20,6 +20,12 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubEvals", "hubExamples", "hubVis", "hubData"],
+    "from": "hubEvals"
+  },
+  {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
     "via": ["hubValidations", "hubData"],
     "from": "hubValidations"
   },

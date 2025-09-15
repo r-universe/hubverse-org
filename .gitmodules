@@ -29,7 +29,7 @@
 [submodule "hubEvals"]
 	path = hubEvals
 	url = https://github.com/hubverse-org/hubEvals
-	branch = *release
+	branch = v0.0.1
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
