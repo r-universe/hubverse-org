@@ -47,7 +47,7 @@
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
-	branch = v0.1.2
+	branch = 0.1.3
 [submodule "hubverse"]
 	path = hubverse
 	url = https://github.com/hubverse-org/hubverse
