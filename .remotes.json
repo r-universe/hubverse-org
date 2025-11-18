@@ -14,7 +14,7 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
-    "via": ["hubValidations"],
+    "via": ["hubValidations", "hubData"],
     "from": "hubValidations"
   },
   {
