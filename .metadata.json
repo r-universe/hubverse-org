@@ -20,6 +20,10 @@
     "releasetag": true
   },
   {
+    "package": "hubEvals",
+    "releasetag": true
+  },
+  {
     "package": "hubValidations",
     "releasetag": true
   },
