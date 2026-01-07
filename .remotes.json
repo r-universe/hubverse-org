@@ -26,6 +26,12 @@
   {
     "package": "hubAdmin",
     "url": "https://github.com/hubverse-org/hubAdmin",
+    "via": ["hubExamples", "hubData"],
+    "from": "hubExamples"
+  },
+  {
+    "package": "hubAdmin",
+    "url": "https://github.com/hubverse-org/hubAdmin",
     "via": ["hubValidations", "hubData"],
     "from": "hubValidations"
   },
@@ -62,7 +68,7 @@
   {
     "package": "hubData",
     "url": "https://github.com/hubverse-org/hubData",
-    "via": ["hubExamples", "hubVis"],
+    "via": ["hubExamples"],
     "from": "hubExamples"
   },
   {
@@ -152,7 +158,7 @@
   {
     "package": "hubUtils",
     "url": "https://github.com/hubverse-org/hubUtils",
-    "via": ["hubExamples", "hubVis"],
+    "via": ["hubExamples", "hubData"],
     "from": "hubExamples"
   },
   {
