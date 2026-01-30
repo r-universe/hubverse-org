@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/hubverse-org/hubverse-org.r-universe.dev
 	branch = HEAD
-[submodule "distfromq"]
-	path = distfromq
-	url = https://github.com/reichlab/distfromq
-	registered = false
 [submodule "hubAdmin"]
 	path = hubAdmin
 	url = https://github.com/hubverse-org/hubAdmin
@@ -52,7 +48,3 @@
 [submodule "hubverse"]
 	path = hubverse
 	url = https://github.com/hubverse-org/hubverse
-[submodule "scoringutils"]
-	path = scoringutils
-	url = https://github.com/epiforecasts/scoringutils
-	registered = false
