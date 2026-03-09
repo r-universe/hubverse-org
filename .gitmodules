@@ -25,7 +25,7 @@
 [submodule "hubEvals"]
 	path = hubEvals
 	url = https://github.com/hubverse-org/hubEvals
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "hubExamples"]
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
