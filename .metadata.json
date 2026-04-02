@@ -32,6 +32,10 @@
     "releasetag": true
   },
   {
+    "package": "hubPredEvalsData",
+    "releasetag": true
+  },
+  {
     "package": "hubCI",
     "releasetag": true
   },

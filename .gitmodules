@@ -30,6 +30,10 @@
 	path = hubExamples
 	url = https://github.com/hubverse-org/hubExamples
 	branch = v1.0.0
+[submodule "hubPredEvalsData"]
+	path = hubPredEvalsData
+	url = https://github.com/hubverse-org/hubPredEvalsData
+	branch = *release
 [submodule "hubStyle"]
 	path = hubStyle
 	url = https://github.com/hubverse-org/hubStyle
