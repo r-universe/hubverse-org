@@ -42,5 +42,9 @@
   {
     "package": "hubDevs",
     "releasetag": true
+  },
+  {
+    "package": "hubStyle",
+    "releasetag": true
   }
 ]
