@@ -13,7 +13,7 @@
 [submodule "hubData"]
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
-	branch = v2.2.1
+	branch = v2.2.2
 [submodule "hubDevs"]
 	path = hubDevs
 	url = https://github.com/hubverse-org/hubDevs
@@ -41,7 +41,7 @@
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
-	branch = v1.2.0
+	branch = v1.2.1
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
