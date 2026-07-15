@@ -33,7 +33,7 @@
 [submodule "hubPredEvalsData"]
 	path = hubPredEvalsData
 	url = https://github.com/hubverse-org/hubPredEvalsData
-	branch = v1.1.1
+	branch = v1.2.0
 [submodule "hubStyle"]
 	path = hubStyle
 	url = https://github.com/hubverse-org/hubStyle
@@ -45,7 +45,7 @@
 [submodule "hubValidations"]
 	path = hubValidations
 	url = https://github.com/hubverse-org/hubValidations
-	branch = v2.1.0
+	branch = v2.1.1
 [submodule "hubVis"]
 	path = hubVis
 	url = https://github.com/hubverse-org/hubVis
