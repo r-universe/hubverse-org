@@ -9,7 +9,7 @@
 [submodule "hubCI"]
 	path = hubCI
 	url = https://github.com/hubverse-org/hubCI
-	branch = v0.0.1
+	branch = v0.1.0
 [submodule "hubData"]
 	path = hubData
 	url = https://github.com/hubverse-org/hubData
