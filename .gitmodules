@@ -37,7 +37,7 @@
 [submodule "hubStyle"]
 	path = hubStyle
 	url = https://github.com/hubverse-org/hubStyle
-	branch = v0.0.2
+	branch = v0.0.3
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/hubverse-org/hubUtils
